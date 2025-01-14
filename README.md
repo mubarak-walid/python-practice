@@ -1,9 +1,14 @@
 # Python Practice 🐍
 
-This repository contains my Python learning journey. Each week, I document what I’ve learned and include exercises or projects I’ve worked on.
+Welcome to my Python Practice repository! This is where I document my learning journey, complete exercises, and build projects as I progress.
 
-## Structure
-- More weeks will be added as I progress.
+## Repository Structure
+- **`weekly-updates/`**: Weekly logs of my learning progress.
+- **`exercises/`**: Python scripts for exercises and problem-solving.
+- **`projects/`**: Larger projects showcasing my skills.
+
+## Progress So Far
+
 
 ## Why This Repo?
-I created this repository to track my progress in Python, improve my programming skills, and showcase my learning journey.
+This repository tracks my learning journey, helping me build a solid foundation in Python programming. It also showcases my progress to potential collaborators or employers.
